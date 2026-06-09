@@ -17,7 +17,7 @@ app = FastAPI(
 
 MODEL_NAME = "AI Wicket Probability Predictor"
 MODEL_VERSION = "v1"
-STUDENT_NAME = "Omkaar Shakti Sharma"
+STUDENT_NAME = "Omkaar Shakti Sharma and Nethra Vinod"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
