@@ -1,0 +1,7 @@
+{
+    "prediction": 71.0,
+    "prediction_label": "High Threat",
+    "model_name": "AI Wicket Probability Predictor",
+    "model_version": "v1",
+    "explanation": "The current match situation and player matchup suggest a high probability of a wicket."
+}

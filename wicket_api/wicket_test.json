@@ -1,0 +1,19 @@
+{
+    "phase": "death",
+    "runs_last_12": 15,
+    "dots_last_12": 2,
+    "wickets_last_12": 1,
+    "boundaries_last_12": 3,
+    "sixes_last_12": 1,
+    "current_run_rate": 9.4,
+    "required_run_rate": 11.2,
+    "over_number": 19,
+    "ball_number": 4,
+    "batter_rating": 84,
+    "batter_aggression": 90,
+    "batter_consistency": 72,
+    "batter_pressure_handling": 75,
+    "bowler_rating": 88,
+    "bowler_death_skill": 93,
+    "bowler_pressure_handling": 85
+}
